@@ -6,10 +6,13 @@ Context:
 YouTube videos have two types of comments:
 
 Parent Comments: These are the usual comments.
+
 Child Comments: These are replies to the parent comments.
+
 The number of comments displayed on a YouTube video includes both parent and child comments.
 
-Files
+Files:
+
 get_comments.py: This Python script fetches all comments (both parent and child) from a YouTube video using its video ID. Instructions on how to use the script are provided within the code comments.
 
 parent_comments_test.csv: This is an example output file of parent comments.
