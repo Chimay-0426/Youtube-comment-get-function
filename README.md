@@ -30,5 +30,5 @@ Data API refs is here [https://developers.google.com/youtube/v3/docs].
 
 If you have any questions, please contact me at saepo12100426(at)gmail.com.
 
-Thank you.
+Thank you. Have a good day.
 
