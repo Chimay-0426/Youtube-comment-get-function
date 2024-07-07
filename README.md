@@ -1,7 +1,7 @@
 # Youtube-comment-get-function
 This repository contains a script to retrieve all comments from a YouTube video.
 
-Context
+Context:
 
 YouTube videos have two types of comments:
 
