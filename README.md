@@ -18,7 +18,7 @@ replied_comments_test.csv: This is an example output file of children_comments.
 
 How to Get video ID
 
-To get a video's ID from its URL, look for the v parameter. For example, in the URL [https://www.youtube.com/watch?v=YxFb6FNUJ6g], the video ID is YxFb6FNUJ6g.
+To get a video's ID from its URL, look for the v parameter. For example, in the URL [https://www.youtube.com/watch?v=YxFb6FNUJ6g], the video ID is the parameter of "v=hogehoge" and thus it is  YxFb6FNUJ6g.
 
 The script can be modified to adjust the order of columns and include other items available in the YouTube Data API.
 
