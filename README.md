@@ -2,6 +2,7 @@
 This repository contains a script to retrieve all comments from a YouTube video.
 
 Context
+
 YouTube videos have two types of comments:
 
 Parent Comments: These are the usual comments.
