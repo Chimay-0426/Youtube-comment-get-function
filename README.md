@@ -11,7 +11,9 @@ The number of comments displayed on a YouTube video includes both parent and chi
 Files
 get_comments.py: This Python script fetches all comments (both parent and child) from a YouTube video using its video ID. Instructions on how to use the script are provided within the code comments.
 
-test_comments.csv: This is an example output file.
+parent_comments_test.csv: This is an example output file of parent comments.
+replied_comments_test.csv: This is an example output file of children_comments.
+
 
 How to Use
 To get a video's ID from its URL, look for the v parameter. For example, in the URL [https://www.youtube.com/watch?v=YxFb6FNUJ6g], the video ID is YxFb6FNUJ6g.
