@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # Replace 'YOUR_API_KEY' with your actual API key
-API_KEY = 'AIzaSyCWa1cY-Tdjl_pJkCfvrdIf3xr-1f9nM0g'
+API_KEY = 'your actual API key'
 # Video ID for the YouTube video you want to get comments from
 VIDEO_ID = 'eogpIG53Cis'
 
